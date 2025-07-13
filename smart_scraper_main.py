@@ -34,3 +34,5 @@ class web_scraper:
         self.browser = None
         self.page = None
         
+
+from utils.browser_agent import WeB
